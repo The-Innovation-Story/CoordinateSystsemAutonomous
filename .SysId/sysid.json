@@ -1,0 +1,16 @@
+{
+  "SysId": {
+    "Analysis Type": "Drivetrain",
+    "Analyzer": {
+      "window": {
+        "visible": false
+      }
+    },
+    "AnalyzerJSONLocation": "C:\\Users\\Pramila\\Desktop\\1\\sysid_data20220220-165745.json",
+    "NetworkTables Settings": {
+      "serverTeam": "7539"
+    },
+    "mode": "Client",
+    "serverTeam": "7539"
+  }
+}
